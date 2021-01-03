@@ -6,6 +6,13 @@
 
 
 ### GIT Initial Commands
- * git config --global user.name "Name"*
- * Git config --global user.email "User email"*
- * git init . (for Initializating repo)*
+ *git config --global user.name "Name"*
+ *Git config --global user.email "User email"*
+ *git init . (for Initializating repo)*
+  
+
+  ### GIT RESET
+
+  * HARD RESET
+
+  * SOFT RESET
